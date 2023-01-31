@@ -1,4 +1,5 @@
 import ContactUserCards from "./ContactUserCard";
+import "./Contacts.css";
 
 export default function Contacts() {
   return (
