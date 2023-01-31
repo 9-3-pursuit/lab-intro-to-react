@@ -3,7 +3,11 @@ import "./index.css";
 import NavBar from "./Components/NavBar";
 
 function App () {
-  <NavBar />
+  return (
+    <div>
+      <NavBar />
+    </div>
+  )
 };
 
 export default App;
