@@ -7,3 +7,8 @@
   margin: 0 auto;
   margin-bottom: 2rem;
 }
+
+.post,
+.posts {
+  border: black solid 1px;
+}

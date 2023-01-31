@@ -10,10 +10,7 @@ body,
   width: 100%;
 }
 
-.post,
-.posts,
-.user,
-.contacts {
+.user {
   border: black solid 1px;
 }
 
