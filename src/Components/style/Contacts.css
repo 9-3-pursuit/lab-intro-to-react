@@ -1,0 +1,6 @@
+.contacts-container {
+  border: 1px solid black;
+  padding: 1em;
+  display: grid;
+  grid-template-rows: repeat(10, 7% 2% 22% 2% 22% 2% 22% 2% 22% 2%);
+}
