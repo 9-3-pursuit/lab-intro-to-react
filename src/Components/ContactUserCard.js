@@ -1,3 +1,5 @@
+import "./ContactUserCard.css";
+
 export default function ContactUserCards({ classN }) {
   return (
     <div className={"user " + classN}>
