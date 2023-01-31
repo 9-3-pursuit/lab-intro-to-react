@@ -3,7 +3,7 @@ import Post from "./Post";
 export default function Posts() {
   return (
     <div className="posts">
-      <h1>Posts</h1>
+      <h2>Posts</h2>
       <Post />
       <Post />
       <Post />
