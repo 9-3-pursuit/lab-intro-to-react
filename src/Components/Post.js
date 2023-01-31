@@ -5,6 +5,6 @@ function Post () {
             <p class="post_text">Lorem Ipsem</p>
         </div>
     )
-}
+};
 
 export default Post;

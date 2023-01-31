@@ -9,6 +9,6 @@ function Posts () {
             <Post/>
         </div>
     )
-}
+};
 
 export default Posts;

@@ -1,12 +1,12 @@
 function UserProfile () {
     return (
         <div class="user">
-            <img class="img" src="./profile.png" alt="userPFP"/>
-            <p class="name">Jordan Walker</p>
-            <p class="title">React Creator</p>
-            <p class="bio">Lorem Ipsem</p>
+            <img class="user_img" src="./profile.png" alt="userPFP"/>
+            <p class="user_name">Jordan Walker</p>
+            <p class="user_title">React Creator</p>
+            <p class="user_bio">Lorem Ipsem</p>
         </div> 
     )
-}
+};
 
 export default UserProfile; 

@@ -6,6 +6,6 @@ function NavBar () {
         <button id="nav_button_sign">Sign in</button>
     </div>
     )
-}
+};
 
 export default NavBar;
