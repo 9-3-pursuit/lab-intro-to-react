@@ -1,8 +1,16 @@
 import React from "react";
 import "./index.css";
 
-function App () {
-  return <p>Hello, world!</p>;
-};
+import NavBar from "./Components/NavBar";
+import UserProfile from "./Components/UserProfile";
+
+function App() {
+  return (
+    <div className="main-container">
+      <NavBar />
+      <UserProfile />
+    </div>
+  );
+}
 
 export default App;
