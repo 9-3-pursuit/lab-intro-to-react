@@ -1,6 +1,6 @@
 import "./ContactUserCard.css";
 
-export default function ContactUserCards({ classN }) {
+export default function ContactUserCard({ classN }) {
   return (
     <div className={"user " + classN}>
       <img src="profile.png" alt="profile" />
