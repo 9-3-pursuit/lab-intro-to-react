@@ -9,3 +9,17 @@ body,
   height: 100%;
   width: 100%;
 }
+
+.post,
+.posts,
+.user,
+.contacts {
+  border: black solid 1px;
+}
+
+main {
+  padding: 3rem;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 3rem;
+}
