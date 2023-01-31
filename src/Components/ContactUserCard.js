@@ -1,3 +1,5 @@
+import "./style/ContactUserCard.css";
+
 const ContactUserCard = () => {
   return (
     <div className="contact-container">

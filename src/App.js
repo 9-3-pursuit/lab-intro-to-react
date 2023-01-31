@@ -10,9 +10,16 @@ function App() {
   return (
     <div className="main-container">
       <NavBar />
-      <UserProfile />
-      <Posts />
-      <Contacts />
+      <div className="main-content-container">
+        <div className="main-content">
+          <UserProfile />
+          <br />
+          <Posts />
+        </div>
+        <div className="main-content-aside">
+          <Contacts />
+        </div>
+      </div>
     </div>
   );
 }

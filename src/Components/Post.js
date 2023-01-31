@@ -1,7 +1,9 @@
+import "./style/Post.css";
+
 const Post = () => {
   return (
     <div className="post-container">
-      <h1>Post Title</h1>
+      <h2>Post Title</h2>
       <p>Lorem Ipsum</p>
     </div>
   );

@@ -6,6 +6,25 @@ body {
 html,
 body,
 #root {
-  height: 100%;
+  min-height: 100vh;
   width: 100%;
+}
+.main-container {
+  display: grid;
+  grid-template-rows: repeat(2, 8% 92%);
+}
+.main-content-container {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 60% 40%);
+}
+
+.main-content {
+  display: grid;
+  grid-template-rows: repeat(3, 35% 5% 60%);
+  padding: 2em;
+}
+
+.main-content-aside {
+  padding: 2em;
 }
