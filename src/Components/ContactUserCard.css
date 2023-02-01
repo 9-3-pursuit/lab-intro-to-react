@@ -1,0 +1,18 @@
+.contact-card{
+    border:2px solid black;
+    display: flex;  
+    align-items: center;
+    margin-bottom: 5%;
+    margin-top:2%;
+    flex-direction: row;
+    width:80%;
+}
+
+ .contact-card :first-child {
+    margin-right: 1rem;
+    margin-top:-2px;
+}
+
+.contact-card section {
+    text-align: center;
+}

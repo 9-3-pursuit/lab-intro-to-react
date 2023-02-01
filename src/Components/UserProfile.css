@@ -1,0 +1,13 @@
+ .user__profile{
+    border:2px solid black;
+    display: flex;
+    margin:2%;
+    margin-right: 30%;
+    width: 60%;
+}
+
+ section {
+    text-align: center;
+    margin-left: 3%;
+    padding-bottom: 8%;
+}
