@@ -9,3 +9,113 @@ body,
   height: 100%;
   width: 100%;
 }
+
+.NavBar{
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: space-around;
+  align-items: baseline;
+  background-color: rgb(181, 214, 228);
+  height: 50px
+  
+  
+  
+}
+
+.Sign_In, .What_Is_Pursuit, .Create_An_Account{
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.UserProfile{
+  border: 2px solid black;
+  height: 150px;
+  width: 60%;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+.random_name{
+  margin-left: 150px;
+  /* margin-top: 25px; */
+}
+
+.AllPosts{
+  border: 2px solid black;
+  height: 300px;
+  width: 60%;
+  margin-left: 20px;
+}
+
+.Posts{
+  text-align: center;
+}
+
+.Title{
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+  margin-right: 50px;
+}
+
+.contacts{
+  margin-top: -34.5%;
+  margin-left: 68%;
+  border: 2px solid black;
+  padding-top: 10px;
+  height: 482.7px;
+  width: 30%;
+  margin-right: 20px;
+}
+
+
+
+
+.contactUserCard{
+  border: 2px solid black;
+  height: 75px;
+  margin-bottom:20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  
+  
+}
+
+.contacts_heading{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.UserPic{
+  margin-top: -1500px;
+}
+
+.UserPic2{
+  height: 65px;
+  margin-top: -50px;
+
+}
+
+.UserName{
+  margin-left: 75px;
+}
+
+.react_creator{
+  margin-left: 163px;
+}
+
+.random_text{
+
+  margin-left: 180px;
+
+}
+
+
+
+
+
