@@ -1,0 +1,18 @@
+#nav {
+    background-color: lightblue;
+    height: 50px;
+    grid-template-rows: 1;
+}
+
+button {
+    border: 1px solid lightgray;
+    color: black;
+    background-color: white; 
+    margin: 10px;
+    margin-top: 25px;
+    height: 15px;
+    float:right;
+    font-size: small;
+}
+
+
