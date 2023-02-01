@@ -1,11 +1,10 @@
-import "./UserProfile.css"
+// import "./UserProfile.css"
+import ProfilePic from "./ProfilePic"
 
 const UserProfile = () => {
     return (
         <div>
-            <span>
-                <img src="profile.png" alt="logo" />
-            </span>
+            <ProfilePic />
             <section>
                 <h1>Jordan Walke</h1>
                 <h3>React Creator</h3>
