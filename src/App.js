@@ -12,7 +12,7 @@ function App() {
       <NavBar />
       <div className="main-content-container">
         <div className="main-content">
-          <UserProfile />
+          <UserProfile src={process.env.PUBLIC_URL + "/assets/eva_main_001.png"} name="eva_001" alt="evangelion_001" title="Neon Genesis Evangelion" director="Hideaki Anno" />
           <br />
           <Posts />
         </div>
