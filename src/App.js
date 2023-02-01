@@ -1,29 +1,24 @@
 import React from "react";
 import "./index.css";
-import NavBar from "./Components/NavBar.js"
-import UserProfile from "./Components/UserProfile.js" 
- import Posts from "./Components/Posts.js"
-import Post from "./Components/Post.js"
-import Contacts from "./Components/Contacts.js"
-import ContactUserCard from "./Components/ContactUserCard.js"
+import NavBar from "./Components/NavBar"
+import UserProfile from "./Components/UserProfile";
+import Posts from "./Components/Posts"
+import Contacts from "./Components/Contacts"
+
 
 function App () {
-  return (
-    <div className="App">
-      <NavBar />
- <p>Hello, world!</p>;
-
-    <UserProfile />
-    <Posts />
-    <Post/>
-    <Post/> 
-    <Post/>
-    <Contacts />
-    <ContactUserCard />
-    <ContactUserCard /> 
-    <ContactUserCard />
-    </div>
-  );
+  return(
+    <>
+      <NavBar>
+        <p>Hello, world!</p>
+      </NavBar>
+      <UserProfile/>
+      <Posts/>
+      <Contacts/>
+     
+      
+    </>
+  )
 };
 
 export default App;

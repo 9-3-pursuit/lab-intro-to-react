@@ -1,11 +1,13 @@
- import "./Post.js"
-function Posts()
-{
-return ( 
-<div>
-   <p>Post</p> 
 
-</div>
-)
-}
-export default Posts
+
+import Post from "./Post"
+export default function Posts(){
+    return(
+        <div>
+        <h2>Post</h2>
+       <Post/>
+       <Post/>
+       <Post/>
+      </div>
+      )
+    }

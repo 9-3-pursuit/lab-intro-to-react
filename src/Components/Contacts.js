@@ -1,10 +1,16 @@
-import "./ContactUserCard.js"
-function Contacts ()
+import Person from "./ContactUserCard.js"
+export default function Contacts ()
 {
-return ( <div>
-   <p>Contact</p> 
+
+return(
+    <div>
+   <Person/>
+   <Person/>
+   <Person/>
+  </div>
   
-</div>
-)
-}
-export default Contacts
+  )
+  
+} 
+
+// export default Contacts
