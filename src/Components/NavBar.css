@@ -1,0 +1,19 @@
+#nav {
+    background-color: lightblue;
+    height: 50px;
+}
+
+
+
+li {
+    list-style: none;
+    text-decoration: none;
+    border: 1px solid lightgray;
+    color: rgb(2, 1, 1);
+    background-color: white;
+    height: 15px;
+    margin: 5px;
+    padding: 2px;
+    float: right;
+    font-size: small;
+}
