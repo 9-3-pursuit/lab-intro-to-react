@@ -1,5 +1,4 @@
-import Button from "./Button"
-import "./NavBar.css"
+
 
 function NavBar ()  {
     return (

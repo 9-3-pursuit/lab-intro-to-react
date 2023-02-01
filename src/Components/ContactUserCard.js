@@ -1,11 +1,8 @@
-import Contacts from "./ComtactUserCard"
+
 
 const ContactUserCard = () => {
-    return <div>
-        <h2>Jordan Walker</h2>
-        <h3>React Creator</h3>
-        <h6>Lorem Ipsem</h6>
-    </div>
+    return <section className="ContactUserCard"></section>
+       
 }
 
 export default ContactUserCard
