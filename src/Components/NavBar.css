@@ -1,0 +1,11 @@
+.navbar {
+    padding: 10px;
+    background-color: lightblue;
+    height: 50px;
+    text-align: right;
+}
+
+button {
+    margin: 5px;
+    padding: 5px;
+}

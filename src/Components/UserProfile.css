@@ -1,0 +1,17 @@
+.user-profile {
+    display: flex;
+    border: 2px solid black;
+    width: 90%;
+    height: 200px;
+}
+
+  img {
+    max-width: 150px;
+    max-height: 150px;
+  }
+ 
+  .text {
+    padding-left: 10px;
+}
+
+
