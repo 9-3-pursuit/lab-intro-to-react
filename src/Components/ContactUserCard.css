@@ -1,0 +1,30 @@
+
+img {
+    width: auto;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.contactCard {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 30px 30px 30px;
+    border: 1px solid black;
+    height: 131px;
+    justify-items: center;
+}
+
+.name {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.jobTitle {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.info {
+    grid-column: 2;
+    grid-row: 3;
+}

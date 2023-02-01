@@ -1,0 +1,7 @@
+.postDiv {
+    display: grid;
+    grid-template-rows: 40px;
+    border: 1px solid black;
+    height: 80px;
+    justify-items: center;
+}
