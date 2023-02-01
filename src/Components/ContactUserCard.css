@@ -1,0 +1,13 @@
+.contacts {
+    border: solid 5px gray;
+}
+
+.contacts h1 {
+    text-align: center;
+    
+}
+
+.contacts h2 {
+    float: right;
+    position: relative;
+}

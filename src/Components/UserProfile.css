@@ -1,0 +1,30 @@
+.user--profile {
+    border: 5px solid gray;
+    float: left;
+    width: 65%;
+    grid-template-rows:2fr;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    position:relative;
+    right: -10px;
+}
+.user--profile h1 {
+    float: right;
+    position: relative;
+    left: -182px;
+}
+
+.description {
+    float: right;
+    position: absolute;
+    bottom: 40px;
+    left: 142px;
+}
+
+ .text {
+    float: right;
+    position: absolute;
+    bottom: 9px;
+    left: 142px;
+}
