@@ -1,9 +1,9 @@
-// import "./UserProfile.css"
+import "./UserProfile.css"
 import ProfilePic from "./ProfilePic"
 
 const UserProfile = () => {
     return (
-        <div>
+        <div className = "user__profile">
             <ProfilePic />
             <section>
                 <h1>Jordan Walke</h1>
