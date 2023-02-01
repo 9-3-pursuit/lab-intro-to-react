@@ -1,0 +1,11 @@
+
+
+#userprofileid {
+    display: flex;
+   gap: 10px;
+   padding-bottom: 40px;
+   width: 65%;
+   border: 2px solid black;
+   float: left;
+   overflow: hidden;
+}

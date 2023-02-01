@@ -1,0 +1,9 @@
+.maindiv {
+    text-align: center;
+    border: 2px solid black;
+    background-color: green;
+    height: auto;
+    width: 65%;
+    float: left;
+   overflow: hidden;
+}
