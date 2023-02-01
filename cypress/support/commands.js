@@ -24,7 +24,7 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 before(() => {
-  const { PORT = 3000 } = process.env;
-  cy.visit(`http://localhost:${PORT}`);
+  const { PORT = 5500 } = process.env;
+  cy.visit(`http://localhost:${5500}`);
   cy.waitForReact();
 });
