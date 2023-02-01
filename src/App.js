@@ -5,8 +5,8 @@ import NavBar from "./Components/NavBar"
 import UserProfile from "./Components/UserProfile"
 import Contacts from "./Components/Contacts"
 
-const App = () => {
-  return <p>Hello, world!</p>;
+function App ()  {
+  // return <p>Hello, world!</p>;
   return <div>
     <NavBar/>
     <UserProfile/>

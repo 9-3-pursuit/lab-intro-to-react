@@ -3,9 +3,9 @@
         
         {
             "type": "chrome",
-            "name": "localhost:5500",
+            "name": "localhost:3000",
             "request": "launch",
-            "url": "localhost:5500"
+            "url": "localhost:3000"
         }
     ]
 }
