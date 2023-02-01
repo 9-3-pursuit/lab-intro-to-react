@@ -5,22 +5,22 @@ function ContactUserCard() {
             <div id="contact1">
                 <img rel="profile" alt="profile-pic" src="../../public/profile.png"></img>
                 <strong>Jordan Walke</strong>
-                <p>React Creator </p>
-                <p>Loren Ipsem</p>
+                <p id="cont1">React Creator </p>
+                <p id="con1">Loren Ipsem</p>
             </div>
 
             <div id="contact2">
                 <img rel="profile" alt="profile-pic" src="../../public/profile.png"></img>
                 <strong>Jordan Walke</strong>
-                <p>React Creator </p>
-                <p>Loren Ipsem</p>
+                <p id="cont2">React Creator </p>
+                <p id="con2">Loren Ipsem</p>
             </div>
 
             <div id="contact3">
                 <img rel="profile" alt="profile-pic" src="../../public/profile.png"></img>
                 <strong>Jordan Walke</strong>
-                <p>React Creator </p>
-                <p>Loren Ipsem</p>
+                <p id="cont3">React Creator </p>
+                <p id="con3">Loren Ipsem</p>
             </div>
 
         </>
