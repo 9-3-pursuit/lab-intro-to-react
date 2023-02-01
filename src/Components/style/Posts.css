@@ -1,0 +1,11 @@
+.posts-container h1 {
+  color: aliceblue;
+}
+.posts-container {
+  position: relative;
+  display: grid;
+  border: 1px solid black;
+  padding: 2em;
+  grid-template-rows: repeat(6, 10% 5% 25% 5% 25% 5% 25%);
+  background-color: #2d545e;
+}

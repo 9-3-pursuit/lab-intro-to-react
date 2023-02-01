@@ -1,0 +1,7 @@
+.contact-container {
+  background-color: beige;
+  border: 1px solid black;
+  margin: 0.5em;
+  display: grid;
+  grid-template-columns: repeat(2, 40% 60%);
+}
