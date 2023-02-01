@@ -1,0 +1,16 @@
+nav ul {
+    /* display: flex; */
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+nav li {
+    margin-right: 2px;
+    padding-top: 15px;
+}
+
+nav {
+    margin-top: -16px;
+    height: 50px;
+    background-color: rgb(152, 212, 225);
+}
