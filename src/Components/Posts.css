@@ -1,0 +1,12 @@
+#posts {
+    width: 65%;
+   
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    padding-bottom: 40px;
+  
+    }
+    #post-title{
+        padding-bottom: 15px;
+    }

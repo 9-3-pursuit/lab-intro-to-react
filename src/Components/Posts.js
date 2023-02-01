@@ -1,7 +1,8 @@
 import Post from "./Post.js"
+import "./Posts.css"
 function Posts() {
     return (<div id="posts">
-        <strong>Posts</strong>
+       <p><strong>Posts</strong></p> 
         <Post/>
 
         

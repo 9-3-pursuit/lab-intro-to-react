@@ -1,0 +1,11 @@
+#contacts {
+ 
+    width: 23%;
+  float:right;
+    border-color: black;
+    border-style: solid;
+    grid-column: span 2;
+   margin: 0;
+    
+
+}

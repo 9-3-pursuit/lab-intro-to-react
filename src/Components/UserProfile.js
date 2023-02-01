@@ -1,10 +1,11 @@
+import "./UserProfile.css"
 function UserProfile() {
     return (
         <div id="user">
-            <img rel="profile" alt="profile-pic" src="../../public/profile.png"></img>
-            <p><strong>Jordan Walke</strong></p>
-            <p>React Creator</p>
-            <p>Loren Ipsem</p>
+            <img id="user-pic" rel="profile" alt="profile-pic" src="../../public/profile.png"></img>
+            <p id="user1"><strong>Jordan Walke</strong></p>
+            <p id="user2"><strong>React Creator</strong></p>
+            <p id="user3">Loren Ipsem</p>
         </div>
     )
 }

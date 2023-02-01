@@ -1,0 +1,20 @@
+#post1,
+#post2,
+#post3 {
+    border-color: black;
+    border-style: solid;
+    
+}
+#post-p1,
+#post-p2,
+#post-p3 {
+    font-size: small;
+}
+
+#post1 {
+    padding-top: 10px;
+}
+
+#post2 {}
+
+#post3 {}

@@ -8,7 +8,7 @@ import Contacts from "./Components/Contacts.js";
 function App() {
 
   return (
-    <div>
+    <div id="app">
       <NavBar />
       <UserProfile />
       <Posts />

@@ -1,8 +1,8 @@
 #nav {
     background-color: lightblue;
-    height: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin: 0;
     text-align: end;
-   
-}
 
+}
