@@ -2,5 +2,15 @@
   border: 1px solid black;
   padding: 1em;
   display: grid;
-  grid-template-rows: repeat(10, 7% 2% 22% 2% 22% 2% 22% 2% 22% 2%);
+  grid-template-rows: repeat(5, 5% 23.75% 23.75% 23.75% 23.75%);
+  background-color: #2d545e;
+}
+
+.contacts-container div {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.contacts-container div h1 {
+  color: aliceblue;
 }

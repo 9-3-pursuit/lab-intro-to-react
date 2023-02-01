@@ -2,4 +2,16 @@
   border: 1px solid black;
   display: grid;
   grid-template-columns: repeat(2, 40% 60%);
+  background-color: #2d545e;
+  color: aliceblue;
+}
+
+.profile-info-inner {
+  color: black;
+  margin-right: 2em;
+  background-color: #fff5d7;
+}
+
+.profile-container img {
+  height: 375px;
 }
