@@ -1,6 +1,6 @@
 const Post = () => {
 
-    return <section>Title</section>
+    return <section className="Title">Title</section>
 }
 
 export default Post

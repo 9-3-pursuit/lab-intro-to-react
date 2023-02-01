@@ -9,10 +9,9 @@ function App () {
   return (
     
     <section>
-      <p>Hello, world!</p>;
       <NavBar />;
-      <Posts />
       <UserProfile />
+      <Posts />
       <Contacts/>
       </section>
   )

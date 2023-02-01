@@ -1,16 +1,15 @@
 const NavBar = () => { 
     return (
-        <ul>
-            <li>
-                <button>What is Pursuit</button>
-            </li>
-            <li>
-                <button>Create an Account</button>
-            </li>
-            <li>
-                <button>Sign In</button>
-            </li>
-        </ul>
+        <section className="NavBar" >
+            
+            <button className="Sign_In">Sign In</button>
+            
+            <button className="Create_An_Account">Create an Account</button>
+            
+            <button className="What_Is_Pursuit">What is Pursuit</button>
+                
+      </section>
+         
     )
 }
 
