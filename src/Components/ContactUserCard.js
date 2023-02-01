@@ -1,12 +1,15 @@
 import ProfilePic from "./ProfilePic"
+import "./ContactUserCard.css"
 
 const ContactUserCard = () => {
     return (
-    <aside>
+    <aside className="contact-card">
         <ProfilePic />
-        <h1>Jordan Walke</h1>
-        <h4>React Creator</h4>
-        <p>Lorem Ipsem</p>
+        <section>
+            <h1>Jordan Walke</h1>
+            <h4>React Creator</h4>
+            <p>Lorem Ipsem</p>
+        </section>
     </aside>
     )
 }
