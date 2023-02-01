@@ -1,16 +1,12 @@
-const Post = [
-    {
-        Title: "Example Title 1",
-        Description: "This is the text for Example Title 1"
-    },
-    {
-        Title: "Example Title 2",
-        Description: "This is the text for Example Title 2"
-    },
-    {
-        Title: "Example Title 3",
-        Description: "This is the text for Example Title 3"
-    }
-]
+
+
+function Post({title, body}) {
+    return (
+        <section>
+            <h3>{title}</h3>
+            <p>{body}</p>
+        </section>
+    );
+}
 
 export default Post
