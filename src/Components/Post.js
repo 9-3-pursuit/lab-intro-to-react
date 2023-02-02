@@ -1,3 +1,4 @@
+import React from "react";
 const postObj = {
     title: "Title",
     notes: "Lorem Ipsem"
