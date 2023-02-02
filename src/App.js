@@ -11,18 +11,21 @@ function App () {
   const myNavBar = NavBar()
   const myUserProfile = UserProfile()
   const myContacts = Contacts()
-  const myContactUserCard = ContactUserCard()
-  const PostHeader = Post()
+  // const myContactUserCard = ContactUserCard()
+  // const PostHeader = Post()
   const myPosts = Posts()
   return ( 
     
   <p>Hello, world!
   <NavBar />
-  <UserProfile />
-  <Contacts />
-  <ContactUserCard />
   <br></br>
-  <Post />
+  <UserProfile />
+  <br></br>
+  <Contacts />
+  <br></br>
+
+
+  <br></br>
   <br></br>
   <Posts />
   </p>

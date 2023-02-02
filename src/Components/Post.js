@@ -1,7 +1,7 @@
 function Post() {
     return (
-        <div id="postArea">Post
-        {/* {this.props.value} */}
+        <div id="postArea">Hi I am a Post!
+    
         </div>
     )
 }   

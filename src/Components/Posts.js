@@ -1,15 +1,17 @@
+import Post from "./Post.js";
+
 function Posts () {
     
     return (
      <div id="userPosts">
         <ul>
-            <li>Posts1</li>
+            <li><Post /></li>
             <br>
             </br>
-            <li>Posts2</li>
+            <li><Post /></li>
             <br>
             </br>
-            <li>Posts3</li>
+            <li><Post /></li>
         </ul>
      </div>
     )
