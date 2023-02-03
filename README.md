@@ -51,7 +51,7 @@ You will be building a static React Application that will show some blog posts a
 ![ProfilePage](./ProfilePage.png)
 
 Rather than building on large HTML file, you will break up this view into multiple React components. You will create each component in its own file, export it, then import it into `App.js`, then you will structure the components to match the hierarchy listed below.
-
+x
 You are given a number of blank files inside of `src/Components`, which will help guide you in figuring out what components you will need, along with the unit tests.
 
 Connect all of the components inside of the `Components/` directory so that each component shows up on the page.
