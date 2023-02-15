@@ -1,12 +1,14 @@
 import Post from "./Post";
 
-function Posts(){
+const Posts=()=>{
     return(
-        <div>
+
+        <section className="TotalPosts">
+            <h5 className="Posts">Posts</h5>
             <Post/>
             <Post/>
             <Post/>
-        </div>
+        </section>
     )
 }
 export default Posts;

@@ -7,12 +7,13 @@ import Contacts from "./Components/Contacts";
 
 function App () {
   return(
-    <div>
-      <NavBar/>
-      <UserProfile/>
-      <Posts/>
+    <section>
+      <p>Hello, world!</p>;
+      <NavBar />
+      <Posts />
+      <UserProfile />
       <Contacts/>
-    </div>
+      </section>
   )
 };
 

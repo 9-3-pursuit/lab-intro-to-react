@@ -1,6 +1,6 @@
-function Post(){
-    return(
-        <div>title</div>
+const Post = () => {
+    return (
+    <section className="Title">Title</section>
     )
 }
 export default Post

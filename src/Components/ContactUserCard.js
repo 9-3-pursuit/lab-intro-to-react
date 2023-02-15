@@ -1,6 +1,9 @@
+
 function ContactUserCard(){
     return(
-        <div>Username</div>
+        <div className="contactUserCard">
+            <p className="User Name"></p>
+        </div>
     )
 }
 export default ContactUserCard;

@@ -1,8 +1,14 @@
 import ContactUserCard from "./ContactUserCard";
+//import css later
 
-function Contacts(){
+const Contacts = ()=> {
     return(
-        <><ContactUserCard /><ContactUserCard /><ContactUserCard /></>
+        <div className="contacts">
+            <h5 className="contacts_heading">Contacts</h5>
+        <ContactUserCard/>
+        <ContactUserCard/>
+        <ContactUserCard/>
+        </div>
     )
 }
 export default Contacts;
