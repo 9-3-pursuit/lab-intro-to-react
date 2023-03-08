@@ -1,0 +1,66 @@
+.header {
+    
+    align-content: space-between;
+    height: 60px;
+    background-color: rgb(234, 242, 226);
+
+}
+#user {
+    margin-top: 3%;
+    background-color: rgb(234, 242, 226);
+    list-style: none;
+    padding: 10%;
+    align-items:inherit;
+    height: fit-content;
+    border: 5px solid rgb(197, 244, 169);
+}
+#contact  {
+    list-style: none;
+    padding: 50px;
+    background-color: rgb(234, 242, 226);
+    border: 2px solid rgb(197, 244, 169);
+    
+}
+
+#name {
+    
+    position: relative;
+    /* margin-right: 0%;
+    margin-left: 20%;
+    margin-top: 5%;  */
+}
+#profileImage {
+    position: relative;
+   
+   
+}
+#description {
+    position: relative;
+    
+}
+#posts {
+    background-color: rgb(197, 244, 169);
+    border: 2px solid black;
+    text-align: center;
+    align-items: center;
+    list-style: none;
+    margin-top: 5%;
+    min-height: 400px;
+    width: 600px;
+}
+#each-post{
+    background-color: rgb(234, 242, 226);
+    list-style: none;
+    border: 1px solid black;
+}
+#contacts {
+  
+    background-color: rgb(197, 244, 169);
+    margin-top: -25%;
+    margin-right: 0%;
+    margin-left: 40%;
+    border: 2px solid black;
+    min-height: 400px;
+    width: 800px;
+}
+
