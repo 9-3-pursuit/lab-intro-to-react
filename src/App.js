@@ -3,7 +3,7 @@ import "./index.css";
 import NavBar from "./Components/NavBar.js";
 import Contacts from "./Components/Contacts.js"
 import UserProfile from "./Components/UserProfile";
-import Posts from "./Components/Post.js"
+import Posts from "./Components/Posts.js"
 
 function App () {
   return(
