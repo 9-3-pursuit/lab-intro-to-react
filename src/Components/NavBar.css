@@ -1,0 +1,13 @@
+.navBar{
+    background: lightblue;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    height: 60px;
+}
+
+button {
+    height: 20px;
+    margin-right: 20px;
+}
